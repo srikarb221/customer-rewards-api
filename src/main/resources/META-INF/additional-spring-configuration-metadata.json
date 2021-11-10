@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "transaction.data.file.path",
+    "type": "java.lang.String",
+    "description": "A description for 'transaction.data.file.path'"
+  },
+  {
+    "name": "rewards.for.transaction.over.fifty",
+    "type": "java.lang.String",
+    "description": "A description for 'rewards.for.transaction.over.fifty'"
+  },
+  {
+    "name": "rewards.for.transaction.over.hundred",
+    "type": "java.lang.String",
+    "description": "A description for 'rewards.for.transaction.over.hundred'"
+  }
+]}

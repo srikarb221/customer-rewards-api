@@ -1,0 +1,92 @@
+[
+    {
+        "customerId": 1111,
+        "customerName": "Greg Gekko",
+        "date": "2021-01-11",
+        "amount": 40
+    },
+    {
+        "customerId": 1111,
+        "customerName": "Greg Gekko",
+        "date": "2021-01-21",
+        "amount": 60
+    },    
+    {
+        "customerId": 2222,
+        "customerName": "Conner Cat",
+        "date": "2021-01-12",
+        "amount": 70
+    },
+    {
+        "customerId": 2222,
+        "customerName": "Conner Cat",
+        "date": "2021-01-22",
+        "amount": 80
+    },    
+    {
+        "customerId": 3333,
+        "customerName": "Owlette Owl",
+        "date": "2021-01-13",
+        "amount": 70
+    },
+    {
+        "customerId": 1111,
+        "customerName": "Greg Gekko",
+        "date": "2021-02-06",
+        "amount": 80
+    },
+    {
+        "customerId": 2222,
+        "customerName": "Conner Cat",
+        "date": "2021-02-07",
+        "amount": 90
+    },
+            {
+        "customerId": 3333,
+        "customerName": "Owlette Owl",
+        "date": "2021-02-08",
+        "amount": 100
+    },
+    {
+        "customerId": 2222,
+        "customerName": "Conner Cat",
+        "date": "2021-02-17",
+        "amount": 120
+    },
+            {
+        "customerId": 3333,
+        "customerName": "Owlette Owl",
+        "date": "2021-02-18",
+        "amount": 130
+    },    
+    {
+        "customerId": 1111,
+        "customerName": "Greg Gekko",
+        "date": "2021-03-10",
+        "amount": 200
+    },
+    {
+        "customerId": 2222,
+        "customerName": "Conner Cat",
+        "date": "2021-03-12",
+        "amount": 170
+    },
+            {
+        "customerId": 3333,
+        "customerName": "Owlette Owl",
+        "date": "2021-03-13",
+        "amount": 80
+    },
+    {
+        "customerId": 1111,
+        "customerName": "Greg Gekko",
+        "date": "2021-03-15",
+        "amount": 60
+    },
+    {
+        "customerId": 3333,
+        "customerName": "Owlette Owl",
+        "date": "2021-03-23",
+        "amount": 180
+    }    
+]
